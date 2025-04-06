@@ -1,6 +1,5 @@
 # Twitter-Data-Pipeline-using-Airflow-and-AWS-S3
 
-# Twitter ETL Project
 
 This is a simple ETL (Extract, Transform, Load) project that collects tweets from Elon Musk's Twitter account using the Twitter API and stores them in a CSV file. The ETL process is automated using Apache Airflow.
 
