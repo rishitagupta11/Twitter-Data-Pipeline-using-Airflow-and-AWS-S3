@@ -43,6 +43,4 @@ Place the scripts in your Airflow DAGs folder. Enable the DAG from the Airflow U
 - `twitter_commands.sh`: Dependency setup script
 - `elonmusk_twitter_data.csv`: Output CSV
 
-## Author
-Your Name
 
